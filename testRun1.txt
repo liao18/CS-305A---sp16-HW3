@@ -1,0 +1,87 @@
+//test add_item
+Receipt:
+sucesfully added 9212
+Item 9212	Large T Shirt   	$15.99
+sucesfully added 5545
+Item 5545	Clementines     	$7.99
+sucesfully added 5122
+Item 5122	Red grapes      	$5.49
+sucesfully added 3222
+Item 3222	Orowheat bread  	$4.99
+sucesfully added 3033
+Item 3033	Starbucks Blend 	$6.99
+sucesfully added 2222
+Item 2222	Chips Ahoy      	$3.29
+sucesfully added 2121
+Item 2121	Planters Peanuts	$8.02
+sucesfully added 1234
+Item 1234	Dozen Eggs      	$3.69
+sucesfully added 1234
+Item 1234	Dozen Eggs      	$3.69
+sucesfully added 1121
+Item 1121	Vanilla yogurt  	$0.75
+sucesfully added 1001
+Item 1001	Snickers        	$0.75
+Total sum of this receipt is $61.64
+
+Trying to delete item 1234
+Succesfully deleted item 1234
+Receipt:
+sucesfully added 9212
+Item 9212	Large T Shirt   	$15.99
+sucesfully added 5545
+Item 5545	Clementines     	$7.99
+sucesfully added 5122
+Item 5122	Red grapes      	$5.49
+sucesfully added 3222
+Item 3222	Orowheat bread  	$4.99
+sucesfully added 3033
+Item 3033	Starbucks Blend 	$6.99
+sucesfully added 2222
+Item 2222	Chips Ahoy      	$3.29
+sucesfully added 2121
+Item 2121	Planters Peanuts	$8.02
+sucesfully added 1234
+Item 1234	Dozen Eggs      	$3.69
+sucesfully added 1121
+Item 1121	Vanilla yogurt  	$0.75
+sucesfully added 1001
+Item 1001	Snickers        	$0.75
+Total sum of this receipt is $57.95
+
+Trying to delete item 10000
+could not find item 10000. Failed to delete
+Receipt:
+sucesfully added 4424
+Item 4424	Pantene Shampoo 	$0.00
+sucesfully added 3222
+Item 3222	Orowheat bread  	$4.99
+sucesfully added 3033
+Item 3033	Starbucks Blend 	$6.99
+sucesfully added 2121
+Item 2121	Planters Peanuts	$8.02
+Total sum of this receipt is $20.00
+
+Trying to delete item 3222
+Succesfully deleted item 3222
+Trying to delete item 3033
+Succesfully deleted item 3033
+Trying to delete item 2121
+Succesfully deleted item 2121
+Trying to delete item 1234
+could not find item 1234. Failed to delete
+Receipt:
+Item 4424	Pantene Shampoo 	$0.00
+Total sum of this receipt is $0.00
+
+Receipt:
+sucesfully added 8000
+Item 8000	Fred Meyer Gift 	$50.00
+sucesfully added 4424
+Item 4424	Pantene Shampoo 	$0.00
+sucesfully added 4424
+Item 4424	Pantene Shampoo 	$0.00
+sucesfully added 3222
+Item 3222	Orowheat bread  	$4.99
+Total sum of this receipt is $54.99
+
